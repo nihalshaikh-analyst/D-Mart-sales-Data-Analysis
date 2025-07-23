@@ -37,9 +37,9 @@ This sales analysis project is aimed at understanding DMart's sales trends acros
 - Implementing predictive models to forecast sales and shipping performance.
   
 ## D Mart Sales Insights.
-- **Focus on high-margin products and underperforming categories to boost overall profitability.
-- **Optimize store operations based on geographic performance and customer behavior.
-- **A thorough D Mart sales analysis helps to sharpen strategies for increasing sales, customer satisfaction, and profitability.
+- **Focus on high-margin products and underperforming categories to boost overall profitability.**
+- **Optimize store operations based on geographic performance and customer behavior.**
+- **A thorough D Mart sales analysis helps to sharpen strategies for increasing sales, customer satisfaction, and profitability.**
 
 ## Conclusion
 The Dmart Sales 2024 Analysis Dashboard provides a rich set of tools to explore sales data interactively, with a focus on categories, shipping methods, and regional performance. The use of slicers and a ship date timeline enhances the user experience by allowing dynamic filtering and trend exploration.
